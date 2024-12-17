@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rifat! I’m passionate about web development, especially working with React and JavaScript. I enjoy building interactive, user-friendly applications and continuously learning to enhance my skills. I’m proficient in modern frontend technologies like HTML5, CSS3, and TypeScript, and I have experience with state management libraries such as Redux and Context API. Additionally, I explore backend technologies like Node.js and Express, and I’m familiar with version control tools like Git. I'm always eager to adopt best practices in development and stay updated with emerging tech trends
+Hi, I'm Rifat! I’m passionate about web development, especially working with React and JavaScript. I enjoy building interactive, user-friendly applications and continuously learning to enhance my skills. I’m proficient in modern frontend technologies like HTML5, CSS3, JavaScript, React and TypeScript, and I have experience with state management libraries such as Redux and Context API. Additionally, I explore backend technologies like Node.js and Express, MongoDB and I’m familiar with version control tools like Git. I'm always eager to adopt best practices in development and stay updated with emerging tech trends
 
 
 ## 🌐 Socials:
